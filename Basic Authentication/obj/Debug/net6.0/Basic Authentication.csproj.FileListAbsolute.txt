@@ -1,0 +1,32 @@
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\appsettings.Development.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\appsettings.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Basic Authentication.exe
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Basic Authentication.deps.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Basic Authentication.runtimeconfig.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Basic Authentication.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Basic Authentication.pdb
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.csproj.AssemblyReference.cache
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.AssemblyInfoInputs.cache
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.AssemblyInfo.cs
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.csproj.CoreCompileInputs.cache
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Basic Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Basic Authentication.props
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Basic Authentication.props
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Basic Authentication.props
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets.build.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\staticwebassets.development.json
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\scopedcss\bundle\Basic Authentication.styles.css
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.csproj.CopyComplete
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\refint\Basic Authentication.dll
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.pdb
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\Basic Authentication.genruntimeconfig.cache
+C:\JMMBDevWSP\test\WebDataAPI2\Basic Authentication\Basic Authentication\obj\Debug\net6.0\ref\Basic Authentication.dll
